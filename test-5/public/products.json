@@ -1,0 +1,5 @@
+[
+    { "name": "prod1", "category": "category", "manufacturer": "manufacturer", "price": 200 },
+    { "name": "prod2", "category": "category1", "manufacturer": "manufacturer2", "price": 20 },
+    { "name": "prod3", "category": "category1", "manufacturer": "manufacturer2", "price": 150 }
+]
